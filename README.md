@@ -46,4 +46,4 @@ This repository contains two datasets aimed at demonstrating data cleaning techn
 This project is licensed under [MIT License](LICENSE), indicating the terms under which others can use or distribute the code and datasets.
 
 ## Acknowledgments:
-Special thanks to [Rushikesh Konapure] and PrepInsta for the support throughout the project.
+Special thanks to [Rushikesh Konapure](@rishikonapure) and PrepInsta for the support throughout the project.
